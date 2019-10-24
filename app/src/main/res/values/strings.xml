@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">T1JJGT</string>
+    <string name="tituloPrincipal">Operaciones Basicas</string>
+    <string name="tSuma">SUMA</string>
+    <string name="tResta">RESTA</string>
+    <string name="tMultiplicacion">MULTIPLICACION</string>
+    <string name="tDivicion">DIVICION</string>
+    <string name="lResultado">Resultado:</string>
+    <string name="bCalcular">CALCULAR</string>
+    <string name="_3_multiplicacion">3.- multiplicacion</string>
+    <string name="_4_divicion">4.- divicion</string>
+    <string name="ingrese_la_operacion_que_desee_realizar">Ingrese la operacion que desee realizar:</string>
+    <string name="_1_suma">1.- suma</string>
+    <string name="_2_resta">2.-resta</string>
+    <string name="opcion">Opcion:</string>
+</resources>
